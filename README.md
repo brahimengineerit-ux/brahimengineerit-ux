@@ -41,6 +41,7 @@
 
 - 🎓 Master's in Information Systems Engineering
 - 🎓 Bachelor's in Software Engineering
+- 🎓 High School Diploma in Mathematics
 
 ---
 
