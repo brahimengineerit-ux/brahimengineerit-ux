@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 AI Engineer with 3+ years of experience
+- 🔭 AI Engineer with 4+ years of experience
 - 🐍 Python specialist (Django, FastAPI)
 - 🤖 Building AI-powered applications with LLMs
 - 🌍 Based in Morocco, open to global opportunities
